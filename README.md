@@ -10,5 +10,7 @@ Para rodar este projeto na sua máquina, você precisará ter o **Node.js** inst
 2. Para verificar se a instalação deu certo, abra o seu terminal (ou prompt de comando) e digite:
    ```bash
    node -v
+3. Para rodar o projeto
+   ```bash
    cd caminho/para/a/pasta/do/projeto
    node trabalho.js 
