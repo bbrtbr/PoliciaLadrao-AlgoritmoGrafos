@@ -14,3 +14,5 @@ Para rodar este projeto na sua máquina, você precisará ter o **Node.js** inst
    ```bash
    cd caminho/para/a/pasta/do/projeto
    node trabalho.js 
+
+feito por Breno Brito e Paulo Guulherme 
